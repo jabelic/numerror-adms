@@ -36,10 +36,10 @@ ODEPACKは
 
 -----
 
-ところで、どのadams法か？
-	記載なし
-    陽解法がいいのか？
-		adams-multon-bashforce法かな
+- ところで、どのadams法か？
+	- 記載なし
+    	- 陽解法がいいのか？
+		- adams-multon-bashforce法かな
 
 -----
 
