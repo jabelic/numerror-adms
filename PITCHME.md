@@ -43,6 +43,8 @@ ODEPACKは
 
 -----
 
+メインテーマ
+
 - Scipy.integrate.odeint（Adams法）
 - オイラー法
 - 厳密解
@@ -51,7 +53,11 @@ ODEPACKは
 
 -----
 
+- 放射性崩壊の方程式: $\frac{dy}{dt} = -y$ について数値計算を行った.|
 
+- ![](resolt_cal.png)|
+
+- 差がほとんどないようにみえる
 
 
 
