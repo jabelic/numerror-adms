@@ -6,8 +6,8 @@ adams法とオイラー法の数値計算の誤差をみる。
 Scipy.integrate.odeint : FORTRAN77
 
 - ODEPACK
-	- DLSODA
-		- 9種類の常微分方程式の解法
+	- 9種類の常微分方程式の解法
+		- DLSODA
 
 
 -----
