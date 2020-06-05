@@ -8,8 +8,17 @@ Scipy.integrate.odeint : FORTRAN77
 - ODEPACK
 	- DLSODA
 		- 9種類の常微分方程式の解法
-   [Netlib](http://www.netlib.org/master_counts2.html#odepack)
-   [odepack](https://www.netlib.org/odepack/index.html)
+
+
+-----
+
+### 豆知識
+
+ODEPACKは
+[Netlib](http://www.netlib.org/master_counts2.html#odepack)によって開発されている.
+
+
+ソースコード：[odepack](https://www.netlib.org/odepack/index.html)
 
 -----
 
