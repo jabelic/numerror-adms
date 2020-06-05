@@ -55,7 +55,9 @@ ODEPACKは
 
 - 放射性崩壊の方程式: $\frac{dy}{dt} = -y$ について数値計算を行った.
 
-<img scr='resolt_cal.png' width=50%>
+<img src='resolt_cal.png' width='50%'>
+
+
 
 - 差がほとんどないようにみえる|
 
