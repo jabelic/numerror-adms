@@ -36,7 +36,7 @@ if (__name__ == '__main__'):
     start = 0.0
     end = 10
     l_slice = 100.2*(end - start)
-    plt.figure(figsize=(7,7))
+    plt.figure(figsize=(6.5,6.5))
     
     #Euler
     h = 0.01
@@ -71,7 +71,7 @@ def cal_num_error(Adams, Euler, Ext):
     return [num_error_adms, num_error_elr, num_error_adms_elr]
 
 data = cal_num_error(y_adms, y_elr, ex_y)
-plt.figure(figsize=(7,7))
+plt.figure(figsize=(6.5,6.5))
 plot2d(t_elr, data[0], "$t$", "$num\_error$", "adms")
 plot2d(t_elr, data[1], "$t$", "$num\_error$", "elr")
 plt.grid()
