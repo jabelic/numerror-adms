@@ -22,10 +22,10 @@ ODEPACKは
 
 -----
 
-- ソースコードを見てみよう[ODEPACK](https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html)
+- ソースコードを見てみよう : [ODEPACK](https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html)
 	
-	- この中にLSODAがある[odepack_prb3.f](https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack_prb3.f)
-		- 出力ファイルがリファレンスに有る
+	- この中にLSODAがある : [odepack_prb3.f](https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack_prb3.f)
+		- 出力ファイルがリファレンスに有る : 
 [odepack_prb3_output.txt](https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack_prb3_output.txt)
 
 -----
