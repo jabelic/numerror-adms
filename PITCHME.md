@@ -22,14 +22,19 @@ ODEPACKは
 
 -----
 
-ソースコードを見てみよう
-	https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html
-	この中にLSODAがある
-		出力ファイルがリファレンスに有る
-		https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack_prb3_output.txt
+ソースコードを見てみよう[ODEPACK](https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack.html)
+	
+- この中にLSODAがある[odepack_prb3.f](https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack_prb3.f)
+	- 出力ファイルがリファレンスに有る
+[odepack_prb3_output.txt](https://people.sc.fsu.edu/~jburkardt/f77_src/odepack/odepack_prb3_output.txt)
 
 -----
 
+読めたと思う？
+読めへん。
+
+
+-----
 
 ところで、どのadams法か？
 	記載なし
